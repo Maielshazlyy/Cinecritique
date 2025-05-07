@@ -1,0 +1,17 @@
+C:\Users\Shazly\source\repos\CineCritique.DAL\bin\Debug\net7.0\CineCritique.DAL.deps.json
+C:\Users\Shazly\source\repos\CineCritique.DAL\bin\Debug\net7.0\CineCritique.DAL.runtimeconfig.json
+C:\Users\Shazly\source\repos\CineCritique.DAL\bin\Debug\net7.0\CineCritique.DAL.dll
+C:\Users\Shazly\source\repos\CineCritique.DAL\bin\Debug\net7.0\CineCritique.DAL.pdb
+C:\Users\Shazly\source\repos\CineCritique.DAL\bin\Debug\net7.0\CineCritique.domain.dll
+C:\Users\Shazly\source\repos\CineCritique.DAL\bin\Debug\net7.0\CineCritique.domain.pdb
+C:\Users\Shazly\source\repos\CineCritique.DAL\obj\Debug\net7.0\CineCritique.DAL.csproj.AssemblyReference.cache
+C:\Users\Shazly\source\repos\CineCritique.DAL\obj\Debug\net7.0\CineCritique.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shazly\source\repos\CineCritique.DAL\obj\Debug\net7.0\CineCritique.DAL.AssemblyInfoInputs.cache
+C:\Users\Shazly\source\repos\CineCritique.DAL\obj\Debug\net7.0\CineCritique.DAL.AssemblyInfo.cs
+C:\Users\Shazly\source\repos\CineCritique.DAL\obj\Debug\net7.0\CineCritique.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Shazly\source\repos\CineCritique.DAL\obj\Debug\net7.0\CineCrit.EC3AF5CB.Up2Date
+C:\Users\Shazly\source\repos\CineCritique.DAL\obj\Debug\net7.0\CineCritique.DAL.dll
+C:\Users\Shazly\source\repos\CineCritique.DAL\obj\Debug\net7.0\refint\CineCritique.DAL.dll
+C:\Users\Shazly\source\repos\CineCritique.DAL\obj\Debug\net7.0\CineCritique.DAL.pdb
+C:\Users\Shazly\source\repos\CineCritique.DAL\obj\Debug\net7.0\CineCritique.DAL.genruntimeconfig.cache
+C:\Users\Shazly\source\repos\CineCritique.DAL\obj\Debug\net7.0\ref\CineCritique.DAL.dll
