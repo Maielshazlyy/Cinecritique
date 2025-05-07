@@ -1,0 +1,12 @@
+C:\Users\Shazly\source\repos\CineCritique.domain\bin\Debug\net7.0\CineCritique.domain.deps.json
+C:\Users\Shazly\source\repos\CineCritique.domain\bin\Debug\net7.0\CineCritique.domain.dll
+C:\Users\Shazly\source\repos\CineCritique.domain\bin\Debug\net7.0\CineCritique.domain.pdb
+C:\Users\Shazly\source\repos\CineCritique.domain\obj\Debug\net7.0\CineCritique.domain.csproj.AssemblyReference.cache
+C:\Users\Shazly\source\repos\CineCritique.domain\obj\Debug\net7.0\CineCritique.domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shazly\source\repos\CineCritique.domain\obj\Debug\net7.0\CineCritique.domain.AssemblyInfoInputs.cache
+C:\Users\Shazly\source\repos\CineCritique.domain\obj\Debug\net7.0\CineCritique.domain.AssemblyInfo.cs
+C:\Users\Shazly\source\repos\CineCritique.domain\obj\Debug\net7.0\CineCritique.domain.csproj.CoreCompileInputs.cache
+C:\Users\Shazly\source\repos\CineCritique.domain\obj\Debug\net7.0\CineCritique.domain.dll
+C:\Users\Shazly\source\repos\CineCritique.domain\obj\Debug\net7.0\refint\CineCritique.domain.dll
+C:\Users\Shazly\source\repos\CineCritique.domain\obj\Debug\net7.0\CineCritique.domain.pdb
+C:\Users\Shazly\source\repos\CineCritique.domain\obj\Debug\net7.0\ref\CineCritique.domain.dll
